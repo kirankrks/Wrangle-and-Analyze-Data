@@ -33,11 +33,13 @@ Clean each of the issues that were documented while assessing. Perform this clea
 
 
 
+
+
 Files contained in this repository:
 1.	wrangle_act.ipynb: code for gathering, assessing, cleaning, analyzing, and visualizing data
-2.	wrangle_report.pdf or wrangle_report.html: documentation for data wrangling steps: gather, assess, and clean
-3.	act_report.pdf or act_report.html: documentation of analysis and insights into final data
-4.	twitter_archive_enhanced.csv: file as given
+2.	wrangle_report.pdf: documentation for data wrangling steps: gather, assess, and clean
+3.	act_report.pdfor act_report.html: documentation of analysis and insights into final data
+4.	twitter_archive_enhanced.csv: file as given by Udacity
 5.	image_predictions.tsv: file downloaded programmatically
 6.	tweet_json.txt: file constructed via API
 7.	twitter_archive_master.csv: combined and cleaned data twitter_archive_enhanced.tsv and tweet_json.txt
